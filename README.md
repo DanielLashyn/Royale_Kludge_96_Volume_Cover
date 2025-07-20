@@ -2,8 +2,8 @@
 
 Table of contents
 - [Background](#Background)
-- [Images](Images)
-- [Lesson Learned](Lesson-Learned:)
+- [Images](#images)
+- [Lesson Learned](#lesson-learned)
 
 ## Background
 A friend and myself we recently acquired multiple used "[RK96 96% Wireless Mechanical Keyboard](https://rkgamingstores.com/products/rk96-96-layout-mechanical-gaming-keyboard)". These keyboards were original used in a project that required some of the keys and volume control section to be removed. The original owner was able to find the missing keys, though only one of the volume control section. Using fusion 360, I designed a replacement part that could be used to cover that section of keyboard
