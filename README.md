@@ -14,8 +14,11 @@ All project files can be found in documents folder.
 
 ## Images
 
-### Keyboard Without Volume Control cover:
+### Keyboard Without Volume Control Cover:
 ![Image of keyboard without volume control cover](https://github.com/DanielLashyn/Royale_Kludge_96_Volume_Cover/blob/main/images/RK96_no_vc_cover.jpg?raw=true)
+
+### Highlighting Volume Control Cover Peg Holes:
+![Image of volume control cover peg holes](https://github.com/DanielLashyn/Royale_Kludge_96_Volume_Cover/blob/main/images/RK96_vc_holes.jpg?raw=true)
 
 ### Design of Volume Control Cover:
 ![Design of keyboard volume control cover (Top View)](https://github.com/DanielLashyn/Royale_Kludge_96_Volume_Cover/blob/main/images/Fusion_vc_top_view.png?raw=true)
