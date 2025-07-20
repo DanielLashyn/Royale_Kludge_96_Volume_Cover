@@ -6,9 +6,9 @@ Table of contents
 - [Lesson Learned](#lesson-learned)
 
 ## Background
-A friend and myself we recently acquired multiple used [RK96 96% Wireless Mechanical Keyboard](https://rkgamingstores.com/products/rk96-96-layout-mechanical-gaming-keyboard). These keyboards were original used in a project that required some of the keys and volume control section to be removed. The original owner was able to find the missing keys, though only one of the volume control section. Using fusion 360, I designed a replacement part that could be used to cover that section of keyboard
+A friend and myself recently acquired multiple used [RK96 96% Wireless Mechanical Keyboard](https://rkgamingstores.com/products/rk96-96-layout-mechanical-gaming-keyboard). These keyboards were original used in a project that required some of the keys and volume control section to be removed. The original owner was able to find the missing keys, though only one of the volume control section. Using fusion 360, I designed a replacement part that could be used to cover that section of keyboard
 
-I used a digital caliper to get a accurate measurements of the volume control section. From those measurements I was able to design the part in fusion 360. After a few test prints (mostly to adjust the Pegs by a few mm), I was able to successfully create a part to go onto the RK96 keyboards.
+I used a digital caliper to get a accurate measurements of the volume control section. From those measurements I was able to design the part in fusion 360. The main challenge of the project was aligning the pegs to give the correct pressure to keep this piece in place. After a few test prints (mostly to adjust the Pegs by a few mm), I was able to successfully create a part to go onto the RK96 keyboards.
 
 All project files can be found in documents folder.
 
